@@ -13,13 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Roman K
+
+title: Romeo Rhionne
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   R. Personal Page. _config.yml. It will appear in your document head meta (for
   search results) and in your feed.xml site description.
 #twitter_username: username
-github_username: scriptingforgood
+#github_username: scriptingforgood
 minimal_mistakes_skin: "sunrise"
 search: true
 
@@ -38,14 +39,14 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+ exclude:
+   - Gemfile
+   - Gemfile.lock
+   - node_modules
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
 
 # Plugins (previously gems:)
 plugins:
@@ -59,7 +60,7 @@ plugins:
 author:
   name   : "Roman K"
   avatar : "/assets/images/ava1.jpg"
-  bio    : "Exploring what's here"
+  bio    : bio geo 
   links:
     - label: "Website (bing)"
       icon: "fas fa-fw fa-link"

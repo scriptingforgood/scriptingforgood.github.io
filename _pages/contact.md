@@ -9,7 +9,7 @@ permalink: /contact/
     <p>Email: </p><input type="email" name="email"><br />
     <input type="submit" value="Send">
 </form> 
-
+hhyy
 <form
   action="https://formspree.io/f/xzbkqkqz"
   method="POST"

@@ -13,8 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-title: Romeo
+title:
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   _config.yml. It will appear in your document head meta (for
@@ -58,19 +57,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Roman K"
+  name   : "Roman"
   avatar : "/assets/images/ava1.jpg"
   bio    : bio geo 
   links:
-    - label: "Website (bing)"
-      icon: "fas fa-fw fa-link"
-      url: "https://bing.com"
+#    - label: "Website (bing)"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://bing.com"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"

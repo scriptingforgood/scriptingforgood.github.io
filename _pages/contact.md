@@ -1,22 +1,18 @@
 ---
-layout: page
 title: Contact
 permalink: /contact/
 ---
-
-<form action="//formspree.io/xleokokr" method="POST">
-    <p>Name: </p><input type="text" name="name"><br />
-    <p>Email: </p><input type="email" name="email"><br />
-    <input type="submit" value="Send">
-</form> 
-hhyy
+Contact form
 <form
   action="https://formspree.io/f/xzbkqkqz"
   method="POST"
->
+><label>
+    Your name:
+    <input type="text" name="name">
+  </label>
   <label>
     Your email:
-    <input type="text" name="_replyto">
+    <input type="email" name="_replyto">
   </label>
   <label>
     Your message:

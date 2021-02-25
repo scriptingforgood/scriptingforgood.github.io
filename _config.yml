@@ -7,20 +7,19 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
+    
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title:
+title: share-by-blogging 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  _config.yml. It will appear in your document head meta (for
-  search results) and in your feed.xml site description.
+  Portfolio? Blog? Short stories? Travel Posts? Here comes site description. 
 #twitter_username: username
 #github_username: scriptingforgood
-minimal_mistakes_skin: "sunrise"
+minimal_mistakes_skin: "default"
 search: true
 
 # Build settings
@@ -60,7 +59,7 @@ author:
   name   : "Roman"
   avatar : "/assets/images/ava1.jpg"
   bio    : bio geo 
-  links:
+#  links:
 #    - label: "Website (bing)"
 #      icon: "fas fa-fw fa-link"
 #      url: "https://bing.com"
@@ -75,7 +74,7 @@ author:
 #      url: "https://instagram.com/"
 
 footer:
-  links:
+#  links:
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"

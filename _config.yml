@@ -56,11 +56,12 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Rom"
+  name   : "scriptingforgood"
   avatar : "/assets/images/ava1.jpg"
   bio    : on a journey of discovery
   location: currently in China
-  location: originally from New New York, we studied together with Fry, but he was more successful 
+  location: "originally from New New York, we studied together with Fry. He was more successful and got a job 
+    in Planet Express"
 #  links:
 #    - label: "Website (bing)"
 #      icon: "fas fa-fw fa-link"
